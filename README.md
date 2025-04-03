@@ -14,7 +14,7 @@ Hi, I'm **BasisZock**. I'm passionate about programming, gaming, and creating pr
 
 Here are some of the projects I am currently working on:
 
-- **[Project 1](#)**: Description of the project.
+- **[Velocity Sign Link](https://github.com/BasisZock/Velocity-Sign-Link)**: A Paper/Spigot Plugin to send players through proxies like Velocity or Bungeecord.
 
 ---
 

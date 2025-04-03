@@ -22,7 +22,7 @@ Here are some of the projects I am currently working on:
 
 You can find me on the following platforms:
 
-- **[YouTube](https://www.youtube.com/c/BasisZock)**: Watch my gaming and programming content.
+- **[YouTube](https://www.youtube.com/@BasisZock)**: Watch my gaming and programming content.
 - **[Twitch](https://www.twitch.tv/BasisZock)**: Join me for live streams.
 - **[GitHub](https://github.com/BasisZock)**: Explore my repositories and open-source projects.
 
